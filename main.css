@@ -1,0 +1,33 @@
+h1 {
+    color: black;
+    background-color: gray;
+    text-align: center;
+}
+
+.questions {
+    background-color: gray;
+    display: inline-block;
+    margin-right: 30px;
+}
+
+.graybox {
+    max-width: 500px;
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    right: 10%;
+    top: 15%;
+}
+
+.btn1 {
+    position: absolute;
+    right: 5%;
+    max-width: 100%;
+    width: 10%;
+    margin-top: 350px;
+}
+
+main {
+    max-width: 100%;
+    width: 50%;
+}
