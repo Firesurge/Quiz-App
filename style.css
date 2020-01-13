@@ -13,7 +13,9 @@
     align-items: center;
 }
 
-h1 {
+
+h1,
+h2 {
     color: teal;
     text-align: center;
     max-width: 100%;
@@ -29,15 +31,10 @@ h1 {
     font-size: 2rem;
     color: teal;
 }
-.gameimg {
+.graybox {
     max-width: 500px;
     width: 400px;
     height: 300px;
     margin-bottom: 50px;
-    border-radius: 10%;
-
-}
-
-p {
-    font-size: 20px;
+    border-radius: 60%;
 }
